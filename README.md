@@ -1,5 +1,5 @@
 # matrix_synapse_cleanup
-Cleanup script for Matrix server Synapse
+Cleanup scripts for Matrix server Synapse
 
 ## Setup
 Modify `.env.example` and save as `.env`
